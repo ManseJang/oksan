@@ -3,7 +3,7 @@ from openai import OpenAI
 
 # 페이지 설정
 st.set_page_config(
-    page_title="어린이를 위한 AI 그림 생성기",
+    page_title="옥산초 학생들을 위한 AI 그림 생성기",
     page_icon="🎨",
     layout="wide"
 )
